@@ -13,7 +13,7 @@
   "devDependencies": {
     "@types/ace": "0.0.42",
     "copy-webpack-plugin": "^5.1.1",
-    "css-loader": "^3.6.0",
+    "css-loader": "^6.8.1",
     "file-loader": "^4.1.0",
     "html-loader": "^0.5.5",
     "mini-css-extract-plugin": "^0.8.0",
